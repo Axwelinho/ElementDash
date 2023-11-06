@@ -43,6 +43,11 @@
 				"D:/Game/EndlessRunner/Content/ThirdPerson/Player/Kachujin_G_Rosales_PhysicsAsset.uasset",
 				"D:/Game/EndlessRunner/Content/ThirdPerson/Player/Kachujin_G_Rosales_Anim.uasset",
 				"D:/Game/EndlessRunner/Content/ThirdPerson/Player/Animations/Running_Slide.uasset",
+				"D:/Game/EndlessRunner/Content/ThirdPerson/Player/Kachujin_G_Rosales_Skeleton.uasset",
+				"D:/Game/EndlessRunner/Content/ThirdPerson/Player/Animations/Fast_Run__1_.uasset",
+				"D:/Game/EndlessRunner/Content/ThirdPerson/Player/BS_Player.uasset",
+				"D:/Game/EndlessRunner/Content/ThirdPerson/Player/AB_Player.uasset",
+				"D:/Game/EndlessRunner/Content/Blueprint/BP_GroundTilesEmpty.uasset",
 				"D:/Game/EndlessRunner/Content/Blueprint/BP_Spline.uasset",
 				"D:/Game/EndlessRunner/Content/Blueprint/BP_CornerTile.uasset"
 			]
