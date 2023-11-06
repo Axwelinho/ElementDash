@@ -7,15 +7,32 @@
 			"files": [
 				"D:/Game/EndlessRunner/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/Game/EndlessRunner/Content/Map/EndlessRun.umap",
-				"D:/Game/EndlessRunner/Content/Blueprint/BP_Spline.uasset",
 				"D:/Game/EndlessRunner/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Game/EndlessRunner/Content/Blueprint/BP_GroundTiles.uasset",
 				"D:/Game/EndlessRunner/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"D:/Game/EndlessRunner/Content/Blueprint/BP_RampUpTile.uasset",
 				"D:/Game/EndlessRunner/Content/Blueprint/BP_RampDownTile.uasset",
 				"D:/Game/EndlessRunner/Content/Blueprint/BP_LeftCornerTile.uasset",
-				"D:/Game/EndlessRunner/Content/Blueprint/BP_CornerTile.uasset",
-				"D:/Game/EndlessRunner/Content/Blueprint/BP_RightCornerTile.uasset"
+				"D:/Game/EndlessRunner/Content/Blueprint/BP_RightCornerTile.uasset",
+				"D:/Game/EndlessRunner/Content/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.uasset",
+				"D:/Game/EndlessRunner/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/Game/EndlessRunner/Content/Characters/Mannequins/Animations/Manny/MM_Idle.uasset",
+				"D:/Game/EndlessRunner/Content/Characters/Mannequins/Animations/Manny/MM_Jump.uasset",
+				"D:/Game/EndlessRunner/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset",
+				"D:/Game/EndlessRunner/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset",
+				"D:/Game/EndlessRunner/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset",
+				"D:/Game/EndlessRunner/Content/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uasset",
+				"D:/Game/EndlessRunner/Content/Characters/Mannequins/Animations/Quinn/MF_Idle.uasset",
+				"D:/Game/EndlessRunner/Content/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uasset",
+				"D:/Game/EndlessRunner/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset",
+				"D:/Game/EndlessRunner/Content/ThirdPerson/Player/Eve_By_J_Gonzales.uasset",
+				"D:/Game/EndlessRunner/Content/ThirdPerson/Player/SpacePirate_M.uasset",
+				"D:/Game/EndlessRunner/Content/ThirdPerson/Player/SpacePirate_diffuse.uasset",
+				"D:/Game/EndlessRunner/Content/ThirdPerson/Player/SpacePirate_specular.uasset",
+				"D:/Game/EndlessRunner/Content/ThirdPerson/Player/SpacePirate_normal.uasset",
+				"D:/Game/EndlessRunner/Content/ThirdPerson/Player/Eve_By_J_Gonzales_PhysicsAsset.uasset",
+				"D:/Game/EndlessRunner/Content/Blueprint/BP_Spline.uasset",
+				"D:/Game/EndlessRunner/Content/Blueprint/BP_CornerTile.uasset"
 			]
 		}
 	]
