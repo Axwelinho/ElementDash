@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Game/EndlessRunner/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Game/EndlessRunner/Content/Map/EndlessRun.umap",
+				"D:/Game/EndlessRunner/Content/Blueprint/BP_Spline.uasset",
+				"D:/Game/EndlessRunner/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Game/EndlessRunner/Content/Blueprint/BP_GroundTiles.uasset",
+				"D:/Game/EndlessRunner/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/Game/EndlessRunner/Content/Blueprint/BP_RampUpTile.uasset",
+				"D:/Game/EndlessRunner/Content/Blueprint/BP_RampDownTile.uasset",
+				"D:/Game/EndlessRunner/Content/Blueprint/BP_LeftCornerTile.uasset",
+				"D:/Game/EndlessRunner/Content/Blueprint/BP_CornerTile.uasset",
+				"D:/Game/EndlessRunner/Content/Blueprint/BP_RightCornerTile.uasset"
+			]
+		}
+	]
+}
