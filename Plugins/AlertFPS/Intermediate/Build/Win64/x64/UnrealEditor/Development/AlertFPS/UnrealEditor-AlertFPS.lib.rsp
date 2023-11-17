@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AlertFPS.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Game\EndlessRunner\Intermediate\Build\Win64\x64\EndlessRunnerEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\Game\EndlessRunner\Plugins\AlertFPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\AlertFPS\Module.AlertFPS.cpp.obj"
+"D:\Game\EndlessRunner\Plugins\AlertFPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\AlertFPS\Default.rc2.res"
+/OUT:"D:\Game\EndlessRunner\Plugins\AlertFPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\AlertFPS\UnrealEditor-AlertFPS.lib"

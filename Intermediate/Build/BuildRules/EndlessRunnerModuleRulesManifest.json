@@ -1,6 +1,7 @@
 {
 	"SourceFiles": [
 		"D:\\Game\\EndlessRunner\\Source\\EndlessRunner\\EndlessRunner.Build.cs",
+		"D:\\Game\\EndlessRunner\\Plugins\\AlertFPS\\Source\\AlertFPS\\AlertFPS.Build.cs",
 		"D:\\Game\\EndlessRunner\\Source\\EndlessRunner.Target.cs",
 		"D:\\Game\\EndlessRunner\\Source\\EndlessRunnerEditor.Target.cs"
 	],

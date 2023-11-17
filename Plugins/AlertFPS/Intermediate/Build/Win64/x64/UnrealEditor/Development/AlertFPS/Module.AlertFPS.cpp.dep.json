@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\game\\endlessrunner\\plugins\\alertfps\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\alertfps\\module.alertfps.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\game\\endlessrunner\\intermediate\\build\\win64\\x64\\endlessrunnereditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\game\\endlessrunner\\plugins\\alertfps\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\alertfps\\definitions.alertfps.h",
+            "d:\\game\\endlessrunner\\plugins\\alertfps\\source\\alertfps\\private\\alertfps.cpp",
+            "d:\\game\\endlessrunner\\plugins\\alertfps\\source\\alertfps\\public\\alertfps.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

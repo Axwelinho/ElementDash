@@ -13,6 +13,7 @@
     </None>
     <None Include="..\..\.vsconfig" />
     <None Include="..\..\README.md" />
+    <None Include="..\..\UpgradeLog.htm" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -30,6 +31,42 @@
     </None>
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AlertFPS">
+      <UniqueIdentifier>{F499B4EC-44BB-3C36-B01F-68B575791052}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AlertFPS\Source">
+      <UniqueIdentifier>{AA080382-CB33-368B-9DDB-0E72357B0E08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AlertFPS\Source\AlertFPS">
+      <UniqueIdentifier>{339381AE-3B92-3303-A0CF-D8AD00538E3A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AlertFPS\Source\AlertFPS\AlertFPS.Build.cs">
+      <Filter>Plugins\AlertFPS\Source\AlertFPS</Filter>
+    </None>
+    <Filter Include="Plugins\AlertFPS\Source\AlertFPS\Private">
+      <UniqueIdentifier>{0F121315-74D2-3A57-BA39-5A5B22110A28}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\AlertFPS\Source\AlertFPS\Private\AlertFPS.cpp">
+      <Filter>Plugins\AlertFPS\Source\AlertFPS\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\AlertFPS\Source\AlertFPS\Public">
+      <UniqueIdentifier>{2F85F961-0015-3DBC-8538-6ED246EBCDA0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\AlertFPS\Source\AlertFPS\Public\AlertFPS.h">
+      <Filter>Plugins\AlertFPS\Source\AlertFPS\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\AlertFPS\AlertFPS.uplugin">
+      <Filter>Plugins\AlertFPS</Filter>
+    </None>
+    <Filter Include="Plugins\AlertFPS\Resources">
+      <UniqueIdentifier>{E218F39F-18D8-3DC4-970A-01C82FD13991}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AlertFPS\Resources\Icon128.png">
+      <Filter>Plugins\AlertFPS\Resources</Filter>
     </None>
     <Filter Include="Source\EndlessRunner">
       <UniqueIdentifier>{A6D23F56-464E-3EC2-91B8-49F1AD215469}</UniqueIdentifier>

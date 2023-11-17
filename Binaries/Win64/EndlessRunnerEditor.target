@@ -34,6 +34,18 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(ProjectDir)/Plugins/AlertFPS/Binaries/Win64/UnrealEditor-AlertFPS.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/AlertFPS/Binaries/Win64/UnrealEditor-AlertFPS.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/AlertFPS/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Binaries/Win64/AgentInterface.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -6217,6 +6229,10 @@
 	"RuntimeDependencies": [
 		{
 			"Path": "$(ProjectDir)/EndlessRunner.uproject",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/AlertFPS/AlertFPS.uplugin",
 			"Type": "UFS"
 		},
 		{

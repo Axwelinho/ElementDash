@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AlertFPS.cpp.obj": [
+			"AlertFPS.cpp.obj"
+		]
+	}
+}
