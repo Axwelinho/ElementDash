@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EndlessRunner.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Game\EndlessRunner\Intermediate\Build\Win64\x64\EndlessRunnerEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\Game\EndlessRunner\Intermediate\Build\Win64\x64\UnrealEditor\Development\EndlessRunner\EndlessRunner.cpp.obj"
+"D:\Game\EndlessRunner\Intermediate\Build\Win64\x64\UnrealEditor\Development\EndlessRunner\MyClass.cpp.obj"
+"D:\Game\EndlessRunner\Intermediate\Build\Win64\x64\UnrealEditor\Development\EndlessRunner\Default.rc2.res"
+/OUT:"D:\Game\EndlessRunner\Intermediate\Build\Win64\x64\UnrealEditor\Development\EndlessRunner\UnrealEditor-EndlessRunner.lib"
