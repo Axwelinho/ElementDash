@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\game\\endlessrunner\\source\\endlessrunner\\endlessrunner.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\game\\endlessrunner\\intermediate\\build\\win64\\x64\\endlessrunnereditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\game\\endlessrunner\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\endlessrunner\\definitions.endlessrunner.h",
+            "d:\\game\\endlessrunner\\source\\endlessrunner\\endlessrunner.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
