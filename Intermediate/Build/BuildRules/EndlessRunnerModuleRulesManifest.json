@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Game\\EndlessRunner\\Source\\EndlessRunner\\EndlessRunner.Build.cs",
+		"D:\\Game\\EndlessRunner\\Source\\EndlessRunner.Target.cs",
+		"D:\\Game\\EndlessRunner\\Source\\EndlessRunnerEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
